@@ -11,25 +11,29 @@ li{
  text-align: center;
  float: left;
  width: 250px;
+ height: 100px;
 }
 
 li a{
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+ display: block;
+ color: white;
+ text-align: center;
+ padding: 25px;
+ text-decoration: none;
+ font-family: Arial;
 }
 
 li a:hover{
- background-color: #0000FF;   
+ background-color: #0000FF;
+ font-family: Arial;   
 }
 
 a{
  display: block;
  padding: 8px;
  background-color: #696969;
- color: #ffffff;
+ color: #696969;
+ font-family: Arial;
 }
 
 ul{
@@ -41,9 +45,15 @@ ul{
  position: fixed;
  top: 0;
  width: 100%;
+ font-family: Arial;
 }
 
 .active{
-    background-color: 	#D3D3D3;
+ background-color: 	#D3D3D3;
+ font-family: Arial;
 }
+
+
+
+
   
