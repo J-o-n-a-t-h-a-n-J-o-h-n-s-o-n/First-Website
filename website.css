@@ -1,0 +1,57 @@
+
+body{
+ background-image: url("https://static.vecteezy.com/system/resources/previews/001/987/497/original/abstract-stripes-golden-lines-diagonal-overlap-on-black-background-luxury-stryle-free-vector.jpg");
+ font-family: Arial;
+}
+
+header{
+    text-align: center;
+    font-family: Arial;
+    font-size: 50px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+li{
+ display: block;
+ font-family: Arial;
+ font-size: 30px;
+ text-align: center;
+ float: left;
+ width: 250px;
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+ background-color: #0000FF;   
+}
+
+a{
+ display: block;
+ padding: 8px;
+ background-color: #696969;
+ color: #ffffff;
+}
+
+ul{
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #696969;
+ position: fixed;
+ top: 0;
+ width: 100%;
+}
+
+.active{
+    background-color: 	#D3D3D3;
+}
+  
