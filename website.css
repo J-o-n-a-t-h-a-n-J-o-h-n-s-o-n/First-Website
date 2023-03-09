@@ -49,4 +49,7 @@ button {
   }
 }
 
-
+.nav-item{
+  background-color: #404040;
+  color: white;
+}
