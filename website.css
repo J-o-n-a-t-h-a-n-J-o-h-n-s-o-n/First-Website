@@ -16,7 +16,6 @@ a {
 button:hover {
   background-color: royalblue;
   transition-duration: 0.25s;
-  box-shadow: 10px 5px 15px 5px #ffffff;
   box-shadow: 10px 5px 15px 5px #87cefa inset;
   opacity: 1;
 }
