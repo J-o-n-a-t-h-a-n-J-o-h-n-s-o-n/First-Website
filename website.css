@@ -40,6 +40,8 @@ button {
   border-radius: 15px;
   text-align: center;
   opacity: 0.75;
+  border-width: 5px;
+  border-color: #ffffff;
 }
 
 @media (max-width: 800px) {
@@ -52,3 +54,5 @@ button {
   background-color: #404040;
   color: white;
 }
+
+
