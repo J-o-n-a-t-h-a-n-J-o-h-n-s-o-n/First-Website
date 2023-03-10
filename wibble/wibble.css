@@ -102,3 +102,16 @@ footer{
  font-size: 20px;  
 }
 
+.contact{
+   color: black;
+   background-color: #f0f2e9;
+   border: none;
+   padding: 0px;  
+}
+
+.contact:hover{
+ border: none;
+ background-color: #f0f2e9;
+ padding: 0px;
+ color: blue;
+}
